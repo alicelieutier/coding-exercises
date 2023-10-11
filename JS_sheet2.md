@@ -144,6 +144,6 @@ Open this game in the node REPL, and play with it.
 
 ### Part 2
 
-In the file [`guessNumber.js`](/exercises/lesson_2/guessNumber.js), write a programme that will play the game automatically.
+In the file [`guessNumber.js`](/guessing_game/guessNumber.js), write a programme that will play the game automatically.
 with the right strategy, you can make it win every time.
 
